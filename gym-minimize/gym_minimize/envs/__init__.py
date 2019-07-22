@@ -1,0 +1,1 @@
+from gym_minimize.envs.minimize_env import MinimizeEnv
